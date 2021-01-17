@@ -6,9 +6,14 @@ Tech Stack
 Node Js
 Mongo Db
 Local Set Up
+
+
 Step 1 :
 Create a File Directory in Your Local System and run Command
 git clone https://github.com/pratapshivendra817/Hospital_api
+
+
+
 Step 2 :
 Now u have package.json
 To install all dependencies Run Command:
